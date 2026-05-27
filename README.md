@@ -158,7 +158,7 @@ Page 2 - Rankings and Performance
 
 1. **Clone the repository**
 ```
-git clone https://github.com/yourusername/customer-shopping-behaviour-analysis-python-sql-powerbi
+git clone https://github.com/manshasinha/customer-shopping-behaviour-analysis-python-sql-powerbi
 ```
 2. **Open the Jupyter Notebook**
    - Open `eda_customer_data.ipynb`
