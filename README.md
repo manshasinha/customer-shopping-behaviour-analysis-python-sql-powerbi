@@ -180,13 +180,13 @@ git clone https://github.com/manshasinha/customer-shopping-behaviour-analysis-py
 
 ## Final Recommendations
 
-- Subscription Program: Promote exclusive subscriber benefits such as early access, free shipping, and loyalty points to increase subscription rate and customer lifetime value
-- Discount Strategy: Retain discounts for Electronics where dependency is high but reduce on Clothing and Footwear to protect margins
-- Customer Retention: Introduce loyalty tier incentives targeting the 1,354 Returning customers to convert them to Loyal
-- Product Positioning: Promote top-rated items (Jewelry, Pants, Blouse) in marketing campaigns and work on improving Phone and Headphone ratings
-- Shipping Upsell: Promote Express and 2-Day shipping options as these customers already spend more on average
-- Age-Group Marketing: Focus campaigns on 51+ and 35-50 segments which are top revenue contributors
-- Seasonal Planning: Align inventory and promotions with Spring and Summer peak seasons and run targeted campaigns to boost Fall revenue
+- **Subscription Program:** Promote exclusive subscriber benefits such as early access, free shipping, and loyalty points to increase subscription rate and customer lifetime value
+- **Discount Strategy:** Retain discounts for Electronics where dependency is high but reduce on Clothing and Footwear to protect margins
+- **Customer Retention:** Introduce loyalty tier incentives targeting the 1,354 Returning customers to convert them to Loyal
+- **Product Positioning:** Promote top-rated items (Jewelry, Pants, Blouse) in marketing campaigns and work on improving Phone and Headphone ratings
+- **Shipping Upsell:** Promote Express and 2-Day shipping options as these customers already spend more on average
+- **Age-Group Marketing:** Focus campaigns on 51+ and 35-50 segments which are top revenue contributors
+- **Seasonal Planning:** Align inventory and promotions with Spring and Summer peak seasons and run targeted campaigns to boost Fall revenue
 
 ---
 
