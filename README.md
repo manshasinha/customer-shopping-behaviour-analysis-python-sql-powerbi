@@ -192,8 +192,8 @@ git clone https://github.com/manshasinha/customer-shopping-behaviour-analysis-py
 
 ## Author and Contact
 
-Mansha Sinha
-Data Analyst
+Mansha Sinha |
+Analyst
 
 Email: manshasinha3110@gmail.com
 LinkedIn: https://www.linkedin.com/in/mansha-sinha-9504a0214
